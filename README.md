@@ -1,5 +1,9 @@
 # Day 16 — Agent Arena
 
+**Học viên:** Nguyễn Văn Nam  
+**Mã học viên:** 2A202601973  
+**Repo:** [Day16_2A202601973_NguyenVanNam](https://github.com/Namnguyen3008/Day16_2A202601973_NguyenVanNam)
+
 Cuộc thi 120 phút tại lớp. Track 3, VinUniversity.
 
 ---
